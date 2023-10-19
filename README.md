@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![An image of @fugi98's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fugi98)](https://holopin.io/@fugi98)
+
 <!--
 **fugi98/fugi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
